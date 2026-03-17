@@ -1,6 +1,7 @@
 # -HGNMOBOT
 <img width="978" height="1018" alt="{E87B6D51-F089-4B01-9C0F-F9B0AF2BD918}" src="https://github.com/user-attachments/assets/d714b699-0ec9-4c36-b734-702fdcc8372e" />
 成品展示：@HGNMOBOT
+
 电报机器人代码，带主菜单和键盘按钮
 这个脚本是一个Telegram 群管 + 会员 + 充值 + 返佣 + 积分商城 + 验证视频 等功能非常完整的机器人，底层使用 Google Apps Script（简称 GAS）实现，部署方式就是典型的 GAS → Web App → Telegram setWebhook 模式。
 准备工作（必须提前完成）
